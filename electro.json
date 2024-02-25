@@ -1,0 +1,16 @@
+[
+    {
+      "id": 1,
+      "titulo": "Career Girls",
+      "director": "Mike Leigh",
+      "genero": "Drama",
+      "anio": 1997
+    },
+    {
+      "id": 4,
+      "titulo": "Summer and Smoke",
+      "director": "Peter Glenville",
+      "genero": "Drama",
+      "anio": 1961
+    }
+  ]
