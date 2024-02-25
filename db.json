@@ -2,13 +2,13 @@
   "productos":
           [
             {
-              "nombre": "Heladera",
-              "precio": "$1000000"
-            },    
-            {
               "nombre": "Computadora",
               "precio": "$800000"
             },
+            {
+              "nombre": "Heladera",
+              "precio": "$1000000"
+            },    
             {
               "nombre": "Lavarropas",
               "precio": "$500000"
