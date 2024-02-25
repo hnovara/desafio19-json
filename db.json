@@ -3,23 +3,23 @@
           [
             {
               "nombre": "Heladera",
-              "precio": 1000000
+              "precio": "$1000000"
             },    
             {
               "nombre": "Computadora",
-              "precio": 800000
+              "precio": "$800000"
             },
             {
               "nombre": "Lavarropas",
-              "precio": 500000
+              "precio": "$500000"
             },
             {
               "nombre": "Microondas",
-              "precio": 300000
+              "precio": "$300000"
             },
             {
               "nombre": "Televisor",
-              "precio": 2000000
+              "precio": "$2000000"
             }
           ]
 }
